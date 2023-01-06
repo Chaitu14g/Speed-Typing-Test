@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main_container {
+    height: 100vh;
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.main_heading {
+    color: #690cb0;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.para_1 {
+    color: #3e4c59;
+    font-size: 15px;
+}
+
+.image {
+    height: 50px;
+    width: 50px;
+}
+
+.second_container {
+    padding: 20px;
+    border-style: solid;
+    border-color: #9aa5b1;
+    border-radius: 20px;
+    background-color: #f2ebfe;
+}
+
+.para_2 {
+    color: #3e4c59;
+    font-size: 15px;
+}
+
+.para_span_2 {
+    color: #323f4b;
+    font-size: 50px;
+}
+
+.para_3 {
+    color: #3e4c59;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.para_4 {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.button_submit {
+    background-color: #690cb0;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    padding: 7px;
+    color: #ffffff;
+}
+
+.button_reset {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    padding: 7px;
+    color: black;
+    font-weight: bold;
+}
